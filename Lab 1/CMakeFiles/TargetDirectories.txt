@@ -1,0 +1,3 @@
+/home/hamidm9/CLionProjects/Lab 1/CMakeFiles/Lab_1.dir
+/home/hamidm9/CLionProjects/Lab 1/CMakeFiles/edit_cache.dir
+/home/hamidm9/CLionProjects/Lab 1/CMakeFiles/rebuild_cache.dir
